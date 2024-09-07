@@ -14,5 +14,5 @@ Resources used/needed:
  - Python 3.9
  - Tensorflow 2.8
  - Anaconda 3 (virtual environment)
- - CUDA drivers (if using GPU), otherwise Google Colab
+ - CUDA drivers (if using GPU, otherwise Google Colab)
  - PyCharm 2024.2
