@@ -8,7 +8,7 @@ This project contains models trained to classify images of geometrical shapes in
 - cone
 - cylinder
 
-Provided are all codes as well as the datasets used for training, validation and testing.
+Provided is code of all models as well as the datasets used for training, validation and testing.
 
 Resources used/needed:
  - Python 3.9
